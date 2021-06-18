@@ -13,6 +13,6 @@ for (i = 122; i < 96; i--)
 {
 putchar(i);
 }
-putchar("\n");
+putchar('\n');
 return (0);
 }
