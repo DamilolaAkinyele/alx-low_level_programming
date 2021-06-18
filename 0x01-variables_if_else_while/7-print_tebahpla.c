@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *Main - Prints reverse alphabets
- *
- *Return: Always 0 (success)
- */
+*Main - Prints reverse alphabets
+*
+*Return: Always 0 (success)
+*/
 int main(void)
 {
 int i;

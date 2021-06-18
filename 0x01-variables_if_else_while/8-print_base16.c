@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *Main - Prints numbers between 0 and 9 and letters between a to f
- *
- *Return: Always 0 (success)
- */
+* main - Prints numbers between 0 and 9 and letters between a to f
+*
+* Return: Always 0 (success)
+*/
 int main(void)
 {
 int i;

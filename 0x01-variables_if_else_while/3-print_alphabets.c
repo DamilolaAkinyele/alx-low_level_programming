@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *Main - prints the alphabet in low and capital cases
- *
- *Return: Always 0 (success)
- */
+* main - prints the alphabet in low and capital cases
+*
+* Return: Always 0 (success)
+*/
 int main(void)
 {
 char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";

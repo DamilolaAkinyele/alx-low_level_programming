@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*Main - Determines either greater than 5, is less than 6, or is 0
+* main - Determines either greater than 5, is less than 6, or is 0
 *
-*Return: Always 0 (success)
+* Return: Always 0 (success)
 */
 int main(void)
 {
