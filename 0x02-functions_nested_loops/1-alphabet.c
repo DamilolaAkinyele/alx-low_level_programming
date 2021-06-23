@@ -1,6 +1,7 @@
 #include "holberton.h"
+
 /**
-* main - prints Holberton as a message
+* print_alphabet - Prints the alphabets
 *
 * Return: Always 0 (Success)
 */
