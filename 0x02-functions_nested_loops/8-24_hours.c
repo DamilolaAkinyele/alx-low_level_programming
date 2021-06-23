@@ -1,10 +1,13 @@
 #include "holberton.h"
+
 /**
 * jack_bauer - prints the minutes of the day
 *
 * Return: no returns
 */
+
 void jack_bauer(void)
+{
 int a, b, c, d;
 for (a = 48; a <= 50; a++)
 {
@@ -20,7 +23,7 @@ _putchar(a);
 _putchar(b);
 _putchar(c);
 _putchar(d);
-_putchar('\n')
+_putchar('\n');
 }
 }
 }
