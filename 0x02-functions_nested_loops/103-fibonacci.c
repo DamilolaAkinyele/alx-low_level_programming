@@ -20,6 +20,6 @@ if ((n1 % 2) == 0)
 afn += n1;
 }
 }
-printf("%ld", afn);
+printf("%ld ", afn);
 return (0);
 }
