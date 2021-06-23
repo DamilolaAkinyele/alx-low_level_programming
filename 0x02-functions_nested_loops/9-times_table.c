@@ -13,13 +13,6 @@ _putchar(48);
 for (b = 1; b <= a; a++)
 {
 op = a * b;
-_putchar(48);
-for (a = 0; a <= 9; a++)
-{
-_putchar(48);
-for (a = 0; a <= 9; b++)
-{
-op = a * b;
 _putchar(44);
 _putchar(32);
 if (op <= 9)
