@@ -14,6 +14,6 @@ if (l < 0)
 {
 l = (-1 * l);
 }
-_putchar(l + '0');
+_putchar(l + 48);
 return (l);
 }
