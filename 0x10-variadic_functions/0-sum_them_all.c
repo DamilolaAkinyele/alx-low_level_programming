@@ -27,15 +27,3 @@ sum += va_arg (ap, int);    /* Get the next argument value. */
 va_end (ap);                  /* Clean up. */
 return sum;
 }
-
-int
-main (void)
-{
-/* This call prints 16. */
-print_numbers ("; ", 3, 5, 5, 6);
-
-/* This call prints 55. */
-print_numbers ("; ", 10, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
-
-return 0;
-}
